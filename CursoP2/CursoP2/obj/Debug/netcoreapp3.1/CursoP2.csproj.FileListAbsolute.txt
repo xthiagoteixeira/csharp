@@ -1,0 +1,16 @@
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\CursoP2.exe
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\CursoP2.deps.json
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\CursoP2.runtimeconfig.json
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\CursoP2.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\CursoP2.dll
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\CursoP2.pdb
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.dll
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.pdb
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.csproj.CopyComplete
+C:\Users\thiag\OneDrive\MeusProjetos\CursoP2\CursoP2\obj\Debug\netcoreapp3.1\CursoP2.csprojAssemblyReference.cache

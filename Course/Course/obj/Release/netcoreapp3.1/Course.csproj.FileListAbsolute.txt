@@ -1,0 +1,13 @@
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\bin\Release\netcoreapp3.1\Course.exe
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\bin\Release\netcoreapp3.1\Course.deps.json
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\bin\Release\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\bin\Release\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\bin\Release\netcoreapp3.1\Course.dll
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\bin\Release\netcoreapp3.1\Course.pdb
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.dll
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.pdb
+C:\Users\thiag\OneDrive\MeusProjetos\Course\Course\obj\Release\netcoreapp3.1\Course.genruntimeconfig.cache
